@@ -1,0 +1,1 @@
+This project is a test playground to become familiar with Java ci/cd tools
