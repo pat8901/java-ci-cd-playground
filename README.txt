@@ -1,3 +1,3 @@
 This project is a test playground to become familiar with Java ci/cd tools
 
-Testing Jenkins integration, round 2
+Testing Jenkins integration, round 3
