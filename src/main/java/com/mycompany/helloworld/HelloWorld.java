@@ -1,12 +1,18 @@
 package com.mycompany.helloworld;
 
 public class HelloWorld {
+    String message;
 
-    public int add(int a, int b) {
-        return a + b;
+    public void setMessage(String message) {
+        this.message = message;
+    }
+
+    public String getMessage() {
+        return this.message;
     }
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        HelloWorld hello = new HelloWorld();
+        hello.setMessage("Welcome to the program!");
     }
 }
